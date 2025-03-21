@@ -1,0 +1,35 @@
+{
+  "name": "telegram-bot",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@aws-sdk/client-s3": "^3.670.0",
+    "@aws-sdk/lib-storage": "^3.670.0",
+    "apify-client": "^2.11.1",
+    "async": "^3.2.6",
+    "axios": "^1.7.7",
+    "body-parser": "^1.20.3",
+    "compression": "^1.7.5",
+    "cookie-parser": "^1.4.7",
+    "express": "^4.21.2",
+    "franc": "^6.2.0",
+    "https-proxy-agent": "^7.0.6",
+    "minimist": "^1.2.8",
+    "moment-timezone": "^0.5.46",
+    "mongoose": "^8.7.1",
+    "node-fetch": "^2.7.0",
+    "node-telegram-bot-api": "^0.66.0",
+    "openai": "^4.79.1",
+    "request": "^2.88.2",
+    "retry-request": "^7.0.2",
+    "teeny-request": "^9.0.0",
+    "twitter-api-v2": "^1.19.0"
+  }
+}
